@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @beepboop1212
+- 👋 Hi, I’m @beepboop1212 - Rishvanth
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Programming 
-- 💞️ I’m looking to collaborate on Small and easy projects
-- 📫 How to reach me DM
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Small projects
+- 📫 How to reach me - by email: rishvanthgv2004@gmail.com
 
 <!---
 beepboop1212/beepboop1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
